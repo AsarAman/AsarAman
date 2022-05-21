@@ -1,11 +1,11 @@
 <h2> Hey there! I'm Syed Asar Aman.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
--   &nbsp; Creating beautiful and interactive websites for you with my front end skills.</br>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Haripur.
-- 🌱 &nbsp; Learning more about Web development.
-- ✍️ &nbsp; Pursuing Technical Writing and Blog Writing as hobbies/side hustles.
+-   &nbsp; A front end developer Creating beautiful and interactive websites for you with my front end skills.</br>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</br>
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Haripur.</br>
+- 🌱 &nbsp; Learning more about Web development.</br>
+- ✍️ &nbsp; Pursuing Technical Writing and Blog Writing as hobbies/side hustles.</br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
